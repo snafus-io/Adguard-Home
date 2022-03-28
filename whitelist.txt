@@ -1,0 +1,26 @@
+
+mit MariaDB 
+
+sudo apt-get install libmariadb-dev
+
+
+
+mysql -u $DB-USER -p $DB-NAME
+Execute the following request:
+
+ALTER TABLE django_etebase_collectiontype MODIFY uid VARBINARY(255) NOT NULL;
+
+etesync db-name: etesync
+etesync db-pass: LbXkhi9mspKvX*DCv98uC6^D9j$p*n8z
+
+
+mysql -u root -p
+MYSQL Root Passwort:  a@e#gD?mN#*e9bp8CVp*$BJTao9HSTV4s
+                      a@e#gD?mN#*e9bp8CVp*$BJTao9HSTV4s
+					  
+					  
+					  
+					  update user set password=PASSWORD("Gender0l0glst_Is-sAtuRateD_Otaku2014") where user='root';
+					                                            1
+					  
+					  create user 'baikal'@'localhost' identified by 'z60!X7ySgCB3&zRBUC^m!FWd4';
